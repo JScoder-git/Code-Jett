@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JScoder-git.github.io/Code-Jett/static/css/main.8e90d3a0.css",
+    "main.js": "/JScoder-git.github.io/Code-Jett/static/js/main.bca96507.js",
+    "static/js/787.4a5f9ec1.chunk.js": "/JScoder-git.github.io/Code-Jett/static/js/787.4a5f9ec1.chunk.js",
+    "index.html": "/JScoder-git.github.io/Code-Jett/index.html",
+    "main.8e90d3a0.css.map": "/JScoder-git.github.io/Code-Jett/static/css/main.8e90d3a0.css.map",
+    "main.bca96507.js.map": "/JScoder-git.github.io/Code-Jett/static/js/main.bca96507.js.map",
+    "787.4a5f9ec1.chunk.js.map": "/JScoder-git.github.io/Code-Jett/static/js/787.4a5f9ec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e90d3a0.css",
+    "static/js/main.bca96507.js"
+  ]
+}
